@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/poruoy/nginxy",
-  "repository": "https://github.com/poruoy/nginxy",
+  "website": "https://github.com/akomye/nginxy",
+  "repository": "https://github.com/akomye/nginxy",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
